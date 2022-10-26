@@ -1,0 +1,8 @@
+br\com\kafka\ecommerce\ConsumerFunction.class
+br\com\kafka\ecommerce\NewOrderMain.class
+br\com\kafka\ecommerce\FraudDetectorService.class
+br\com\kafka\ecommerce\BuscarCallback.class
+br\com\kafka\ecommerce\EmailService.class
+br\com\kafka\ecommerce\KafkaService.class
+br\com\kafka\ecommerce\LogService.class
+br\com\kafka\ecommerce\Propriedades.class
